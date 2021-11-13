@@ -4,11 +4,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%232BBC8A&center=true&vCenter=true&lines=Computer+sicene+student;Always+learning+new+things;5%2B+years+of+coding+experience">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%232BBC8A&center=true&vCenter=true&lines=Computer+science+student;Always+learning+new+things;5%2B+years+of+coding+experience">
 </p>
+
+#
 
 <p align="center">
   <a href="https://github.com/lukeboxwalker/lukeboxwalker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeboxwalker&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lukeboxwalker's GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeboxwalker&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="lukeboxwalker's GitHub Stats"/>
   </a>
 </p>
