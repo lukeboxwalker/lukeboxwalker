@@ -18,11 +18,11 @@
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </p>
   
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lukeboxwalker/lukeboxwalker">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeboxwalker&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="lukeboxwalker's GitHub Stats"/>
   </a>
-</p>
+</p> -->
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/lukeboxwalker/github-stats-transparent/output/generated/overview.svg" alt="lukeboxwalker's GitHub Stats"/>
     <img align="center" src="https://raw.githubusercontent.com/lukeboxwalker/github-stats-transparent/output/generated/languages.svg" alt="lukeboxwalker's GitHub Stats"/>
