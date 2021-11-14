@@ -65,3 +65,5 @@
   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 </p>
 
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lukeboxwalker&point=2bbc8a&line=ffffff&color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true&hide_title=true)
+
