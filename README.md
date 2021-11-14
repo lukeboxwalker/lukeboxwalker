@@ -16,13 +16,11 @@
   <img src="https://img.icons8.com/fluency/48/000000/steam.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/spotify.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 </p>
   
 <p align="center">
   <a href="https://github.com/lukeboxwalker/lukeboxwalker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeboxwalker&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="lukeboxwalker's GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeboxwalker&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="lukeboxwalker's GitHub Stats"/>
   </a>
 </p>
 
@@ -59,10 +57,10 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lukeboxwalker&point=c9cacc&line=2bbc8a&color=ffffff&bg_color=00000000&hide=bg-color&hide_border=true&hide_title=true)
