@@ -1,13 +1,13 @@
+<h1 align="center">
+  <p>Welcome to my profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
+  <a align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%232BBC8A&center=true&vCenter=true&lines=Computer+science+student;Always+learning+new+things;5%2B+years+of+coding+experience">
+   </a>
+</h1>
+
 <h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <p>Social Media Stuff</p>
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%232BBC8A&center=true&vCenter=true&lines=Computer+science+student;Always+learning+new+things;5%2B+years+of+coding+experience">
-</p>
-
-#
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
@@ -28,14 +28,17 @@
 
 #
 
+<h3 align="center">
+  <p>IDE's and editors etc.</p>
+</h3>
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
@@ -48,14 +51,17 @@
 </p>
 
 #
+
+<h3 align="center">
+  <p>Programming languages</p>
+</h3>
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
 </p>
 
