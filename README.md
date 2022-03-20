@@ -5,7 +5,7 @@
    </a>
 </h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <p>Social Media Stuff</p>
 </h3>
 
@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/steam.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/spotify.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
-</p>
+</p> -->
   
 <!-- <p align="center">
   <a href="https://github.com/lukeboxwalker/lukeboxwalker">
