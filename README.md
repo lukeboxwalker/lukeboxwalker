@@ -71,5 +71,5 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lukeboxwalker&point=2bbc8f&line=2bbc8a&color=ffffff&bg_color=00000000&hide=bg-color&hide_border=true&hide_title=true)
+<!-- ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lukeboxwalker&point=2bbc8f&line=2bbc8a&color=ffffff&bg_color=00000000&hide=bg-color&hide_border=true&hide_title=true) -->
 
