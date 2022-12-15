@@ -45,11 +45,17 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=advent-of-code&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="advent-of-code"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=g-se-2019&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="gse-2019"/>  
+  <a href="https://github.com/lukeboxwalker/advent-of-code" alt="link to repo advent-of-code">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=advent-of-code&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="advent-of-code"/>
+  </a>
+  <a href="https://github.com/lukeboxwalker/g-se-2019" alt="link to repo g-se-2019">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=g-se-2019&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="gse-2019"/>  
+   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=networks-2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="networks-2021"/>
+  <a href="https://github.com/lukeboxwalker/networks-2021" alt="link to repo networks-2021">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeboxwalker&repo=networks-2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=bg-color&hide_border=true" alt="networks-2021"/>
+  </a>
 </p>
 
 #
@@ -61,7 +67,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
